@@ -1,2 +1,1 @@
-# chennnyl.github.io
-Personal site
+Hello! Welcome to my personal website.
