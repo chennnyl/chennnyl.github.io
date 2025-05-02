@@ -2,7 +2,7 @@ My name is lynne homann cure. I'm a transgender leftist, mathematician, and tran
 
 ## Work
 ### Math
-- [Minkowski’s theorem and elementary results in convex analysis](/drp-2025)
+- [The Krein-Milman theorem and elementary results in convex analysis](/drp-2025)
     - These are the talk slides for my Spring 2025 directed reading program
 
 ## About
