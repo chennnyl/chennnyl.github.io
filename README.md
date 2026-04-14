@@ -1,4 +1,4 @@
-![Headshot](assets/koto%20headshot.JPEG)
+<img src="assets/koto headshot.JPEG" alt="Headshot" width="25%">
 
 My name is lynne homann cure. I'm a transgender leftist, mathematician, educator, and moonlight as a translator from Japanese to English. I use she/her pronouns. You can contact me via email at lynne[at]lynnux[dot]org.
 
@@ -14,3 +14,5 @@ My name is lynne homann cure. I'm a transgender leftist, mathematician, educator
 ## About
 - [Why my name is in lowercase](/name)
 - [Resume](/resume)
+
+[Site repository](https://github.com/chennnyl/chennnyl.github.io)
