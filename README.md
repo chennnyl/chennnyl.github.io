@@ -1,9 +1,16 @@
-My name is lynne homann cure. I'm a transgender leftist, mathematician, and translator from Japanese to English. I use she/her pronouns. You can contact me via email at lynne[at]lynnux[dot]org.
+![Headshot](assets/koto%20headshot.JPEG)
+
+My name is lynne homann cure. I'm a transgender leftist, mathematician, educator, and moonlight as a translator from Japanese to English. I use she/her pronouns. You can contact me via email at lynne[at]lynnux[dot]org.
 
 ## Work
 ### Math
 - [The Krein-Milman theorem and elementary results in convex analysis](/drp-2025)
-    - These are the talk slides for my Spring 2025 directed reading program
+    - Directed reading program talk slides
+- [Symmetry Groups of the Plane](/symmetry)
+    - Paper and talk slides for a Euclidean/non-Euclidean geometries course final project
+### Translation
+- [Translation blog](https://lynne.bearblog.dev)
 
 ## About
 - [Why my name is in lowercase](/name)
+- [Resume](/resume)

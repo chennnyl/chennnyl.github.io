@@ -1,0 +1,11 @@
+# Resume
+<object data="assets/resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+## About (ENGL393)
+I am a Baltimore City native graduating this spring from the University of Maryland, College Park with a B.S. in mathematics. After graduation, I am looking to obtain my M.Ed. and teaching certification, after which I intend to return home and become a public high school math teacher. 
+
+My desire to become a teacher is firmly rooted in my experience growing up in Baltimore and being educated by its public school system. Public education in Baltimore faces many challenges, some of which are universal to American public education: for instance, state funding is limited and teachers are in short supply. However, there are also disparities both at the local level (schools in certain areas of the city receiving disproportionately more resources) and at the state level (schools in other counties receiving disproportionately more resources). These disparities are born in great part from inequities drawn along racial, economic, and geographic lines carved out by phenomena such as redlining, uneven development of public infrastructure, and ongoing gentrification. I feel a deep sense of injustice in the face of these realities, and seek to apply my expertise as a mathematician, as an educator, and as a student activist to do my part in rectifying them. 
+
+I am entering education with the hope that I can help reshape it into a tool not for subjugation, but for liberation: I hold as a north star Paulo Freire’s innovations in critical pedagogy. As he wrote in Pedagogy of the Oppressed, “Problem-posing education is revolutionary futurity. Hence it is prophetic (and, as such, hopeful). Hence, it corresponds to the historical nature of humankind. Hence, it affirms women and men as beings who transcend themselves, who move forward and look ahead, for whom immobility represents a fatal threat, for whom looking at the past must only be a means of understanding more clearly what and who they are so that they can more wisely build the future.”
+
+As an educator, I have not simply a desire, but an obligation to strive for no less than Freire’s revolutionary futurity.
