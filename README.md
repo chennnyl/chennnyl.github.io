@@ -8,6 +8,9 @@ My name is lynne homann cure. I'm a transgender leftist, mathematician, educator
     - Directed reading program talk slides
 - [Symmetry Groups of the Plane](/symmetry)
     - Paper and talk slides for a Euclidean/non-Euclidean geometries course final project
+### Miscellaneous
+- [HGLO101 Final Project](/about-hglo)
+    - Interactive final project for a demographics/data science course
 
 ### Translation
 - [Translation blog](https://lynne.bearblog.dev)
